@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on HTML & CSS projects
+- 👀 I have Two Years experience in WordPress
 - 📫 You can reach me here on github
 
 <!---
